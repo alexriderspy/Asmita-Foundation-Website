@@ -1,0 +1,26 @@
+
+h1{
+  line-height: 1.5;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3rem;
+}
+button{
+  padding: 10px;
+  margin: 15px 15px 15px 0;
+  line-height: 1.5;
+
+}
+.container-fluid{
+  padding: 70px 100px 150px;
+}
+.main_pic{
+  height: 350px;
+  width: 650px;
+  border-radius: 3%;
+  z-index: 3;
+  margin-top: 30px;
+  transform: rotate3d(3);
+}
+#title{
+  background-color: #99FEFF;
+}
